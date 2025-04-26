@@ -1,2 +1,2 @@
 # hello-world
-Első feladat
+a bit about yourself.
